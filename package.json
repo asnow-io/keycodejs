@@ -1,6 +1,6 @@
 {
   "name": "@asnow-io/keycodejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An enum of frequent keycodes",
   "author": "Daniel Slepov",
   "license": "MIT",
