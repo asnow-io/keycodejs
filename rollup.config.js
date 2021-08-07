@@ -14,7 +14,7 @@ const config = {
   output: [
     {
       file: pkg.browser,
-      name: "Datacasting",
+      name: "KeycodeJS",
       format: "umd",
     },
     {
